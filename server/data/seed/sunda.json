@@ -1,0 +1,226 @@
+[
+  {
+    "bahasa": "Sunda",
+    "level": "Pemula",
+    "situasi": "Sobat maneh ménta tulung basa manéh keur sibuk pisan.",
+    "opsi": [
+      "Teu tiasa, abdi keur sibuk. Engké we urang bantosan.",
+      "Muhun, ku abdi digarap kabéh.",
+      "Teu hayang.",
+      "Garap sorangan wé."
+    ],
+    "benar": 0,
+    "penjelasan": "'Teu tiasa' (tidak bisa) dalam ragam hormat disertai tawaran waktu lain adalah cara menolak yang sopan dalam bahasa Sunda.",
+    "catatan_budaya": "Bahasa Sunda memiliki undak usuk (tingkatan bahasa): loma (akrab), sedeng (menengah), dan lemes (halus). Berbicara kepada teman sebaya bisa loma, tapi menolak dengan halus tetap dianjurkan.",
+    "kalimat_susun": "Teu tiasa abdi keur sibuk engké bantosan",
+    "keyakinan": 0.89
+  },
+  {
+    "bahasa": "Sunda",
+    "level": "Pemula",
+    "situasi": "Manéh papanggih jeung tatangga anyar. Kumaha nyapa nu hadé?",
+    "opsi": [
+      "Saha manéh téh?",
+      "Wilujeng enjing! Abdi Asep. Nembe pindah ka dieu?",
+      "Rék ka mana?",
+      "Mangga asup."
+    ],
+    "benar": 1,
+    "penjelasan": "'Wilujeng enjing' (Selamat pagi) dan memperkenalkan diri adalah cara menyapa yang ramah dan sopan dalam budaya Sunda.",
+    "catatan_budaya": "Orang Sunda dikenal dengan 'someah hade ka semah' — ramah kepada tamu. Menyapa tetangga baru dengan hangat adalah kewajiban sosial.",
+    "kalimat_susun": "Wilujeng enjing abdi Asep nembe pindah",
+    "keyakinan": 0.91
+  },
+  {
+    "bahasa": "Sunda",
+    "level": "Pemula",
+    "situasi": "Manéh rék ménta tulung ka batur nu leuwih sepuh kalayan sopan.",
+    "opsi": [
+      "Béré ka abdi barang éta.",
+      "Punten, Bapa/Ibu. Abdi badé ménta tulung sakedap.",
+      "Hayang éta, béré wé.",
+      "Kunaon teu béré?"
+    ],
+    "benar": 1,
+    "penjelasan": "'Punten' (permisi/mohon maaf) adalah kata pembuka yang sangat penting dalam bahasa Sunda saat berbicara kepada orang yang lebih tua.",
+    "catatan_budaya": "'Punten' adalah kata ajaib dalam bahasa Sunda — digunakan untuk permisi, mohon perhatian, atau minta maaf. Melewatkan 'punten' saat berbicara kepada yang lebih tua dianggap kurang ajar.",
+    "kalimat_susun": "Punten abdi badé ménta tulung sakedap",
+    "keyakinan": 0.94
+  },
+  {
+    "bahasa": "Sunda",
+    "level": "Mahir",
+    "situasi": "Atasan manéh muji pagawéan manéh di hareupeun tim. Kumaha ngaréspon kalayan handap asor?",
+    "opsi": [
+      "Muhun, abdi nu paling pinter di dieu.",
+      "Hatur nuhun, Pak. Tapi kieu téh hasil gawé babarengan. Tanpa réréncangan, moal aya hasil ieu mah.",
+      "Biasa wé, éta mah gawé abdi.",
+      "Wah, teu nyangka Bapak ningali."
+    ],
+    "benar": 1,
+    "penjelasan": "'Hatur nuhun' (terima kasih dalam krama) disertai pengakuan kontribusi tim mencerminkan nilai 'handap asor' (rendah hati) yang dihargai dalam budaya Sunda.",
+    "catatan_budaya": "Dalam falsafah Sunda, 'handap asor' adalah sikap merendah meski sebenarnya berkemampuan tinggi. Menonjolkan diri berlebihan dianggap 'adigung' (angkuh).",
+    "kalimat_susun": "Kieu téh hasil gawé babarengan",
+    "keyakinan": 0.90
+  },
+  {
+    "bahasa": "Sunda",
+    "level": "Mahir",
+    "situasi": "Manéh teu satuju jeung kaputusan bos di rapat. Kumaha ngomongkeunana kalayan hormat?",
+    "opsi": [
+      "Kaputusan ieu teu bener.",
+      "Pak, kenging abdi ngadugikeun pandangan sanés? Abdi khawatir pendekatan ieu bakal tepang tantangan sabab...",
+      "Kumaha Bapak wé.",
+      "Ieu kaputusan salah."
+    ],
+    "benar": 1,
+    "penjelasan": "Meminta izin berbicara dengan 'kenging abdi' (boleh saya) dan menyampaikan kekhawatiran dengan alasan adalah cara yang hormat.",
+    "catatan_budaya": "Dalam adat Sunda, 'tata krama' mengatur cara berbicara kepada yang dituakan. Peribahasa: 'Ulah gedé hulu' (jangan besar kepala) — menentang atasan harus dengan sangat bijak.",
+    "kalimat_susun": "Kenging abdi ngadugikeun pandangan sanés",
+    "keyakinan": 0.88
+  },
+  {
+    "bahasa": "Sunda",
+    "level": "Pemula",
+    "situasi": "Manéh keur di pasar jeung rék nawar harga.",
+    "opsi": [
+      "Mahal teuing! Murahkeun!",
+      "Akang/Teteh, tiasa kirang sakedik? Abdi rék meuli dua.",
+      "Moal meuli ah lamun kitu mah.",
+      "Harga ieu teu asup akal."
+    ],
+    "benar": 1,
+    "penjelasan": "Sapaan 'Akang' (untuk lelaki) atau 'Teteh' (untuk perempuan) sebelum menawar adalah adab yang wajib dalam interaksi di pasar Sunda.",
+    "catatan_budaya": "Sapaan 'Akang' dan 'Teteh' bukan hanya sebutan biologis — digunakan untuk siapapun yang lebih tua atau sebaya sebagai tanda hormat dalam budaya Sunda.",
+    "kalimat_susun": "Akang tiasa kirang sakedik abdi meuli dua",
+    "keyakinan": 0.92
+  },
+  {
+    "bahasa": "Sunda",
+    "level": "Pemula",
+    "situasi": "Adi manéh teu hayang diajar jeung leuwih resep ulin.",
+    "opsi": [
+      "Diajar ayeuna! Ulah ulin wé!",
+      "Dek, diajar heula nya. Engké lamun geus bérés, ulin puas-puasan.",
+      "Keun wé lah.",
+      "Engké uing lapor ka indung."
+    ],
+    "benar": 1,
+    "penjelasan": "Menawarkan waktu bermain setelah belajar adalah pendekatan yang positif dan memotivasi.",
+    "catatan_budaya": "Dalam keluarga Sunda, kakak (lanceuk) memiliki tanggung jawab membimbing adik. Pendekatan persuasif lebih dihargai daripada perintah kasar.",
+    "kalimat_susun": "Diajar heula engké ulin puas-puasan",
+    "keyakinan": 0.89
+  },
+  {
+    "bahasa": "Sunda",
+    "level": "Mahir",
+    "situasi": "Manéh diajak dahar di bumi sobat. Kadaharan nu dijajakeun kurang cocog. Tuan rumah nanya manéh resep teu.",
+    "opsi": [
+      "Kurang cocog keur abdi mah.",
+      "Ngeunah pisan! Tiasa diajar résépna?",
+      "Lumayan.",
+      "Wah, masakan Akang/Teteh mah béda. Bumbuna has, teu sarua jeung nu biasa abdi tuang."
+    ],
+    "benar": 3,
+    "penjelasan": "Memuji keunikan bumbu (yang memang nyata) tanpa berbohong soal selera adalah kecerdasan sosial Sunda.",
+    "catatan_budaya": "Peribahasa Sunda: 'Someah hade ka semah' (ramah kepada tamu/undangan). Dalam konteks ini tuan rumah adalah yang berjasa — menghargai usaha mereka adalah kewajiban.",
+    "kalimat_susun": "Bumbuna has teu sarua jeung biasa",
+    "keyakinan": 0.86
+  },
+  {
+    "bahasa": "Sunda",
+    "level": "Pemula",
+    "situasi": "Sobat manéh gagal ujian jeung katingali sedih. Manéh hayang ngahibur.",
+    "opsi": [
+      "Naon, teu diajar heula?",
+      "Teu nanaon, masih aya kasempetan deui. Manéh pasti bisa lamun nyoba deui.",
+      "Uing geus nyaho bakal gagal.",
+      "Kunaon bisa gagal?"
+    ],
+    "benar": 1,
+    "penjelasan": "Semangat yang tulus dan keyakinan pada kemampuan teman adalah dukungan terbaik.",
+    "catatan_budaya": "Dalam nilai Sunda, 'silih asah, silih asih, silih asuh' (saling mengasah, mengasihi, mengasuh) adalah prinsip utama dalam pertemanan. Mendukung teman yang jatuh adalah kewajiban.",
+    "kalimat_susun": "Masih aya kasempetan manéh pasti bisa",
+    "keyakinan": 0.92
+  },
+  {
+    "bahasa": "Sunda",
+    "level": "Mahir",
+    "situasi": "Manéh rék negur batur gawé nu sering telat ngumpulkeun laporan tanpa nyakitan hatina.",
+    "opsi": [
+      "Manéh téh sering telat, teu bisa kitu.",
+      "Eh, manéh alright? Abdi perhatikeun manéh aya kasulitan jeung deadlines. Aya nu bisa abdi bantu?",
+      "Kudu lapor ka bos.",
+      "Manéh perlu improve."
+    ],
+    "benar": 1,
+    "penjelasan": "Mendekati dengan empati dan menawarkan bantuan lebih efektif daripada teguran langsung.",
+    "catatan_budaya": "Dalam budaya Sunda, 'ulah neangan kasalahan batur' (jangan mencari-cari kesalahan orang lain) — menegur harus dengan niat baik yang tulus dan dilakukan secara pribadi.",
+    "kalimat_susun": "Aya nu bisa abdi bantu manéh",
+    "keyakinan": 0.87
+  },
+  {
+    "bahasa": "Sunda",
+    "level": "Pemula",
+    "situasi": "Manéh keur dina angkot jeung rék turun, tapi nu hareupeun teu bergerak. Manéh kudu ngaliwat.",
+    "opsi": [
+      "Minggir atuh!",
+      "Punten, abdi badé turun.",
+      "Hei, abdi mau turun, leupaskeun!",
+      "Susah pisan ngaliwatna."
+    ],
+    "benar": 1,
+    "penjelasan": "'Punten' sebagai kata pembuka saat melewati orang adalah keharusan dalam tata krama Sunda di ruang publik.",
+    "catatan_budaya": "Di masyarakat Sunda, 'punten' bukan hanya ungkapan formal — ia adalah tanda bahwa kita mengakui keberadaan orang lain dan menghargai ruang mereka.",
+    "kalimat_susun": "Punten abdi badé turun",
+    "keyakinan": 0.93
+  },
+  {
+    "bahasa": "Sunda",
+    "level": "Pemula",
+    "situasi": "Manéh hayang nyilih pensil sobat, tapi sungkan.",
+    "opsi": [
+      "Béré pensilna ka abdi!",
+      "Punten, tiasa nyilih pensil sakedap?",
+      "Pensilna ka dieu heula.",
+      "Kunaon teu hayang béré?"
+    ],
+    "benar": 1,
+    "penjelasan": "Diawali 'punten' dan menggunakan 'tiasa' (bisa/boleh) membuat permintaan terdengar sopan dan tidak memaksa.",
+    "catatan_budaya": "Budaya Sunda mengajarkan 'rumasa' — kesadaran diri untuk tidak membebani orang lain. Meminta dengan sopan adalah ekspresi dari nilai ini.",
+    "kalimat_susun": "Punten tiasa nyilih pensil sakedap",
+    "keyakinan": 0.91
+  },
+  {
+    "bahasa": "Sunda",
+    "level": "Mahir",
+    "situasi": "Manéh ningali batur gawe salah prosedur, tapi manéh teu mau bikin manéhna éra di hareupeun jalmi réa.",
+    "opsi": [
+      "Cara manéh téh salah, kudu kieu!",
+      "Prosedurna salah, teu maca panduanna?",
+      "Ieu, hayu urang cék babarengan sakedap. Abdi rék nuduhkeun hiji hal.",
+      "Biarin wé, lain urusan abdi."
+    ],
+    "benar": 2,
+    "penjelasan": "Mengajak melihat bersama ('urang cék babarengan') melindungi harga diri rekan sambil menyelesaikan masalah secara kolaboratif.",
+    "catatan_budaya": "Nilai Sunda 'silih asah' (saling mengasah) mengajarkan bahwa berbagi pengetahuan harus dilakukan dengan cara yang saling menghormati, bukan merendahkan.",
+    "kalimat_susun": "Hayu urang cék babarengan sakedap",
+    "keyakinan": 0.86
+  },
+  {
+    "bahasa": "Sunda",
+    "level": "Mahir",
+    "situasi": "Manéh nampi kritik pedas ti sobat ngeunaan pagaweaan manéh. Kritik téh bener, tapi carana kasar.",
+    "opsi": [
+      "Manéh mah teu bisa nyebut semangat.",
+      "Hatur nuhun kana perhatianana. Abdi bakal pertimbangankeun. Tapi carana asa kurang nyaman.",
+      "Gawe manéh ogé teu sampurna.",
+      "Abdi teu menta pendapat manéh."
+    ],
+    "benar": 1,
+    "penjelasan": "Mengakui kritik dengan 'hatur nuhun' (terima kasih) lalu menyampaikan harapan cara yang lebih baik menunjukkan kematangan dan tetap menjaga hubungan.",
+    "catatan_budaya": "Falsafah Sunda 'silih asih' (saling mengasihi) mengajarkan bahwa koreksi harus disertai kasih sayang, dan menerimanya harus dengan hati terbuka.",
+    "kalimat_susun": "Hatur nuhun abdi bakal pertimbangankeun",
+    "keyakinan": 0.87
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "bahasa": "Jawa",
+    "level": "Pemula",
+    "situasi": "Kancamu njaluk tulung nalika kowe lagi sibuk banget nggarap gaweyan.",
+    "opsi": [
+      "Mengko disik ya, aku lagi sibuk tenan. Sesuk tak rewangi.",
+      "Oke, tak garap kabeh wae.",
+      "Ora gelem, pokoke ora.",
+      "Garap dhewe wae, aku ra ngerti."
+    ],
+    "benar": 0,
+    "penjelasan": "Nolak kanthi alus lan nawakake pitulungan mengko nuduhake unggah-ungguh Jawa sing apik — ora sengol nanging uga jujur.",
+    "catatan_budaya": "Dalam budaya Jawa, menolak secara halus dengan menawarkan waktu lain disebut 'ngina kanthi alus'. Ini lebih diterima daripada penolakan langsung.",
+    "kalimat_susun": "Mengko disik aku lagi sibuk tenan",
+    "keyakinan": 0.91,
+    "perlu_verifikasi": false
+  },
+  {
+    "bahasa": "Jawa",
+    "level": "Pemula",
+    "situasi": "Kowe ketemu karo wong tuwa ing dalan. Piye carane nyapa kanthi sopan?",
+    "opsi": [
+      "Eh, arep menyang ngendi?",
+      "Sugeng enjing, Pak/Bu. Badhe tindak pundi?",
+      "Halo, apa kabar?",
+      "Permisi, ana apa?"
+    ],
+    "benar": 1,
+    "penjelasan": "'Sugeng enjing' (Selamat pagi) lan 'badhe tindak pundi' (hendak pergi ke mana) menggunakan krama inggil yang tepat untuk berbicara kepada orang yang lebih tua.",
+    "catatan_budaya": "Bahasa Jawa memiliki tingkatan bahasa: ngoko (kasual), madya, dan krama inggil (paling formal/hormat). Berbicara kepada orang tua wajib menggunakan krama.",
+    "kalimat_susun": "Sugeng enjing badhe tindak pundi",
+    "keyakinan": 0.93,
+    "perlu_verifikasi": false
+  },
+  {
+    "bahasa": "Jawa",
+    "level": "Pemula",
+    "situasi": "Kancamu ngajak mangan bareng, nanging kowe durung kepengin mangan.",
+    "opsi": [
+      "Ora gelem, aku ora luwe.",
+      "Matur nuwun ajakanipun, nanging aku durung luwe. Mengko wae bareng ya.",
+      "Ah, kesuwen.",
+      "Kowe wae mangan dhewe."
+    ],
+    "benar": 1,
+    "penjelasan": "'Matur nuwun' (terima kasih) sebelum menolak menunjukkan rasa hormat meski menolak ajakan.",
+    "catatan_budaya": "Dalam budaya Jawa, menolak ajakan tanpa ucapan terima kasih dianggap kurang beradab, terutama kepada teman yang lebih tua.",
+    "kalimat_susun": "Matur nuwun nanging aku durung luwe",
+    "keyakinan": 0.89,
+    "perlu_verifikasi": false
+  },
+  {
+    "bahasa": "Jawa",
+    "level": "Mahir",
+    "situasi": "Atasanmu memujimu di depan tim. Kamu ingin merespons dengan rendah hati menggunakan bahasa Jawa krama.",
+    "opsi": [
+      "Inggih, pancen kula ingkang paling pinter.",
+      "Matur nuwun sanget, Pak. Menawi wonten kasil, menika ugi berkat pitulunganipun kanca-kanca sedaya.",
+      "Biasa mawon, sanes bab ingkang wigati.",
+      "Wah, mboten nyangka Bapak nggatosaken kula."
+    ],
+    "benar": 1,
+    "penjelasan": "Matur nuwun sanget (terima kasih banyak) lalu mengakui kontribusi tim dalam krama inggil adalah respons yang paling tepat secara budaya.",
+    "catatan_budaya": "Dalam falsafah Jawa, 'andhap asor' (rendah hati) sangat dijunjung. Memuji diri sendiri berlebihan dianggap 'gumedhe' (sombong) dan tidak terpuji.",
+    "kalimat_susun": "Kasil menika berkat pitulungan kanca sedaya",
+    "keyakinan": 0.92,
+    "perlu_verifikasi": false
+  },
+  {
+    "bahasa": "Jawa",
+    "level": "Mahir",
+    "situasi": "Kowe arep ngomong bab penting marang wong tua, nanging kudu milih wektu sing pas.",
+    "opsi": [
+      "Langsung ngomong wae, ora perlu ngenteni.",
+      "Nunggu nganti wong tua lagi santai, banjur kandha kanthi alus: 'Kula badhe nyuwun pirsa, menawi sampun kersa.'",
+      "Nulis layang wae supaya ora kudu ketemu.",
+      "Ngomong liwat kanca supaya ora canggung."
+    ],
+    "benar": 1,
+    "penjelasan": "Memilih waktu yang tepat dan meminta izin bicara terlebih dahulu ('nyuwun pirsa') adalah etika Jawa dalam berkomunikasi dengan orang yang lebih tua.",
+    "catatan_budaya": "Peribahasa: 'Alon-alon asal kelakon' — pelan-pelan asal tercapai. Tidak terburu-buru dan memilih momen yang tepat adalah kebijaksanaan Jawa.",
+    "kalimat_susun": "Alon-alon waton kelakon",
+    "keyakinan": 0.90,
+    "perlu_verifikasi": false
+  },
+  {
+    "bahasa": "Jawa",
+    "level": "Mahir",
+    "situasi": "Kancamu takon pendapatmu babagan keputusan sing menurutmu kurang pas, nanging kowe ora gelem nyakiti atine.",
+    "opsi": [
+      "Menurutku kuwi salah banget.",
+      "Ora papa, aku setuju.",
+      "Menurutku apik, nanging mbok menawa bisa ditimbang maneh sisi liyane. Jer basuki mawa beya, kabeh butuh pengorbanan.",
+      "Wis kebacut, ora bisa diowahi."
+    ],
+    "benar": 2,
+    "penjelasan": "Menyampaikan pendapat dengan peribahasa 'Jer basuki mawa beya' membungkus kritik dalam kebijaksanaan yang tidak menyinggung.",
+    "catatan_budaya": "'Jer basuki mawa beya' berarti 'untuk mencapai keberhasilan perlu pengorbanan' — peribahasa ini sering dipakai untuk menyampaikan bahwa perlu upaya lebih tanpa mengkritik langsung.",
+    "kalimat_susun": "Jer basuki mawa beya",
+    "keyakinan": 0.88,
+    "perlu_verifikasi": false
+  },
+  {
+    "bahasa": "Jawa",
+    "level": "Pemula",
+    "situasi": "Kowe lagi ing pasar lan arep nawar rega karo pedagang kanthi sopan.",
+    "opsi": [
+      "Larang banget! Murahna!",
+      "Pak, menawi saged kirang sekedhik? Kula tumbas kathah.",
+      "Ora gelem tuku yen ora murah.",
+      "Harga segini kemahalan."
+    ],
+    "benar": 1,
+    "penjelasan": "Menggunakan krama ('menawi saged kirang') dan menawarkan membeli banyak adalah cara negosiasi yang sopan di pasar Jawa.",
+    "catatan_budaya": "Di pasar Jawa tradisional, menawar adalah seni yang melibatkan humor dan kesopanan; pedagang biasanya menghargai pembeli yang menawar dengan ramah.",
+    "kalimat_susun": "Menawi saged kirang sekedhik",
+    "keyakinan": 0.90,
+    "perlu_verifikasi": false
+  },
+  {
+    "bahasa": "Jawa",
+    "level": "Pemula",
+    "situasi": "Adhimu ora gelem sinau lan malah main terus. Piye cara menehi nasehat kanthi apik?",
+    "opsi": [
+      "Wis ra gelem sinau? Arep dadi apa kowe!",
+      "Dhi, sinau sik ya. Mengko mainmu luwih seru yen tugasmu wis kelar.",
+      "Terserah kowe wae.",
+      "Aku ngomong marang ibu kowe ora sinau."
+    ],
+    "benar": 1,
+    "penjelasan": "Memberi motivasi dengan menjanjikan waktu bermain setelah belajar lebih efektif daripada marah atau mengancam.",
+    "catatan_budaya": "Dalam keluarga Jawa, kakak atau saudara tua dihormati dan diikuti. Pendekatan persuasif lebih diterima daripada perintah keras.",
+    "kalimat_susun": "Sinau sik mengko main luwih seru",
+    "keyakinan": 0.91,
+    "perlu_verifikasi": false
+  },
+  {
+    "bahasa": "Jawa",
+    "level": "Mahir",
+    "situasi": "Kowe diundang mangan ing omah kancamu. Panganan sing disajekake ora cocog karo seleramu. Tuan rumah takon apa kowe seneng.",
+    "opsi": [
+      "Jujur, ora cocog karo seleraku.",
+      "Enak tenan! Iki resepnya apa?",
+      "Hmm, lumayan.",
+      "Wah, masakan kamu istimewa banget. Bumbune beda, tak cicip maneh ah."
+    ],
+    "benar": 3,
+    "penjelasan": "Menemukan aspek nyata yang bisa dipuji (bumbu) tanpa berbohong adalah kecerdasan sosial dalam budaya Jawa.",
+    "catatan_budaya": "Dalam budaya Jawa, 'tepa slira' (tenggang rasa) mengajarkan untuk menjaga perasaan orang lain. Mengkritik masakan tuan rumah adalah pelanggaran besar.",
+    "kalimat_susun": "Bumbune beda istimewa banget",
+    "keyakinan": 0.87,
+    "perlu_verifikasi": false
+  },
+  {
+    "bahasa": "Jawa",
+    "level": "Mahir",
+    "situasi": "Guru sekolahmu bertanya apakah tugas sudah dikerjakan, padahal kamu lupa mengerjakan.",
+    "opsi": [
+      "Sampun, Bu.",
+      "Nyuwun pangapunten, Bu. Kula kesupen. Menawi saged, kula nyaosaken benjang?",
+      "PR sing endi, Bu?",
+      "Benjang kemawon, Bu."
+    ],
+    "benar": 1,
+    "penjelasan": "'Nyuwun pangapunten' (mohon maaf) dalam krama inggil disertai tawaran solusi menunjukkan tanggung jawab dan rasa hormat kepada guru.",
+    "catatan_budaya": "Guru (bahasa Jawa: 'dwija') memiliki posisi terhormat dalam masyarakat Jawa. Berbohong kepada guru dianggap sangat tidak terpuji.",
+    "kalimat_susun": "Nyuwun pangapunten kula kesupen",
+    "keyakinan": 0.94,
+    "perlu_verifikasi": false
+  },
+  {
+    "bahasa": "Jawa",
+    "level": "Pemula",
+    "situasi": "Kowe lagi nunggu giliran ing warung. Dumadakan ana wong sing nyerobot antrean.",
+    "opsi": [
+      "Hei, aja nyerobot!",
+      "Nuwun sewu, giliraningkula. Enten antrean mriki.",
+      "Wis ben, aku ora peduli.",
+      "Dasar wong ora ngerti aturan."
+    ],
+    "benar": 1,
+    "penjelasan": "'Nuwun sewu' (permisi/mohon maaf) adalah kata pembuka sopan dalam Jawa saat menegur orang yang tidak dikenal.",
+    "catatan_budaya": "Ungkapan 'nuwun sewu' digunakan untuk mengawali percakapan yang berpotensi tidak nyaman. Menegur tanpa 'nuwun sewu' dianggap tidak beradab dalam budaya Jawa.",
+    "kalimat_susun": "Nuwun sewu enten antrean mriki",
+    "keyakinan": 0.90,
+    "perlu_verifikasi": false
+  },
+  {
+    "bahasa": "Jawa",
+    "level": "Pemula",
+    "situasi": "Kowe kepengin nyilih buku kancamu kanggo sinau, nanging kowe isin.",
+    "opsi": [
+      "Silih bukumu!",
+      "Eh, kena nyilih bukumu ora? Aku durung duwe sing iku.",
+      "Aku mbutuhake bukumu, cepet.",
+      "Kenapa kowe ra gelem silihke aku?"
+    ],
+    "benar": 1,
+    "penjelasan": "Meminta dengan sopan dan menjelaskan alasan ('aku durung duwe') membuat permintaan lebih wajar dan mudah diterima.",
+    "catatan_budaya": "Dalam pergaulan Jawa, meminta sesuatu harus dilakukan dengan bahasa yang halus dan disertai alasan yang jelas agar tidak terkesan memaksa.",
+    "kalimat_susun": "Kena nyilih bukumu ora",
+    "keyakinan": 0.89,
+    "perlu_verifikasi": false
+  },
+  {
+    "bahasa": "Jawa",
+    "level": "Mahir",
+    "situasi": "Kowe weruh kancamu ing kantor gaweyan kanthi cara sing kurang efisien, nanging kowe ora diminta menehi saran.",
+    "opsi": [
+      "Caranmu kuwi salah.",
+      "Gaweyanmu ra efisien.",
+      "Eh, aku duwe cara sing tau tak coba. Gelem tak critakake?",
+      "Wis ben, dudu urusanku."
+    ],
+    "benar": 2,
+    "penjelasan": "Menawarkan pengalaman pribadi sebagai cerita — bukan perintah — memberi ruang rekan untuk menerima atau menolak tanpa merasa dihakimi.",
+    "catatan_budaya": "Falsafah Jawa 'aja dumeh' (jangan merasa lebih) mengajarkan bahwa berbagi keahlian harus dilakukan dengan rendah hati, bukan menggurui.",
+    "kalimat_susun": "Aku duwe cara gelem tak critakake",
+    "keyakinan": 0.87,
+    "perlu_verifikasi": false
+  },
+  {
+    "bahasa": "Jawa",
+    "level": "Mahir",
+    "situasi": "Kowe arep pamitan marang wong tuwa sak durunge budal adoh. Kepiye carane sing sopan nganggo krama?",
+    "opsi": [
+      "Aku arep lungo, ya.",
+      "Bapak/Ibu, kula badhe nyuwun pamit. Mugi-mugi panjenengan tansah sehat lan slamet.",
+      "Tak tinggal ya.",
+      "Mangga, kula pamit."
+    ],
+    "benar": 1,
+    "penjelasan": "'Nyuwun pamit' (mohon izin pergi) disertai doa untuk orang tua adalah cara berpamitan paling lengkap dan tulus dalam budaya Jawa.",
+    "catatan_budaya": "Berpamitan kepada orang tua sebelum pergi jauh adalah kewajiban dalam budaya Jawa — diiringi doa keselamatan sebagai tanda bakti anak kepada orang tua.",
+    "kalimat_susun": "Kula badhe nyuwun pamit",
+    "keyakinan": 0.92,
+    "perlu_verifikasi": false
+  }
+]

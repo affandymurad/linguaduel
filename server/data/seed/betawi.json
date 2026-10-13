@@ -1,0 +1,240 @@
+[
+  {
+    "bahasa": "Betawi",
+    "level": "Pemula",
+    "situasi": "Temen lo ngajak nongkrong malem ini, tapi lo lagi males dan capek abis kerja.",
+    "opsi": [
+      "Gue kagak mau, capek.",
+      "Aduh, gue lagi capekin neh. Besok lagi deh ya, biar gue bisa full hadir.",
+      "Terserah lo deh.",
+      "Lo mah ngajakin mulu, ganggu aje."
+    ],
+    "benar": 1,
+    "penjelasan": "Nolak dengan alasan yang jujur tapi tetep nawarin waktu lain nunjukkin kalo lo masih peduli sama pertemanan.",
+    "catatan_budaya": "Betawi punya gaya bicara blak-blakan tapi tetep ada seninya. 'Neh' adalah kata penegas khas Betawi yang membuat kalimat terasa lebih personal.",
+    "kalimat_susun": "Gue lagi capekin besok lagi ya",
+    "keyakinan": 0.85,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Betawi",
+    "level": "Pemula",
+    "situasi": "Lo ketemu tetangge baru di depan rumah. Lo mau nyapa dengan ramah ala Betawi.",
+    "opsi": [
+      "Eh, lo siape?",
+      "Hoi! Tetangge baru ye? Nama gue Ucok. Udah lame tinggal di sini?",
+      "Permisi, ada ape?",
+      "Selamet dateng, masuk-masuk."
+    ],
+    "benar": 1,
+    "penjelasan": "'Hoi' adalah sapaan santai khas Betawi. Langsung memperkenalkan diri sambil bertanya adalah cara ramah bergaul ala Betawi.",
+    "catatan_budaya": "Orang Betawi dikenal terbuka dan ramah kepada pendatang. Sapaan spontan tanpa basa-basi berlebihan adalah ciri khas komunikasi Betawi.",
+    "kalimat_susun": "Tetangge baru ye nama gue Ucok",
+    "keyakinan": 0.83,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Betawi",
+    "level": "Pemula",
+    "situasi": "Lo mau minta tolong temen lo buat anterin ke stasiun, tapi lo ngerasa sungkan.",
+    "opsi": [
+      "Anterin gue ke stasiun sekarang!",
+      "Eh, boleh minta tolong kagak? Lo bisa anterin gue ke stasiun kagak, ntar gue traktir bakso.",
+      "Ah biarin, gue naik ojek aje.",
+      "Kamu mau anterin aku nggak?"
+    ],
+    "benar": 1,
+    "penjelasan": "Minta tolong dengan menawarkan imbalan (traktir bakso) adalah cara yang enak dan tidak memaksakan dalam budaya Betawi.",
+    "catatan_budaya": "Dalam pergaulan Betawi, tawaran 'gue traktir' adalah pelumas sosial yang umum — menunjukkan rasa terima kasih yang tulus dan langsung.",
+    "kalimat_susun": "Boleh minta tolong kagak ntar gue traktir",
+    "keyakinan": 0.84,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Betawi",
+    "level": "Mahir",
+    "situasi": "Bos lo muji kerjaan lo di depan tim. Lo mau ngerespons dengan humble tapi tetep pede.",
+    "opsi": [
+      "Emang gue yang paling jago di sini.",
+      "Makasih ya Pak. Tapi ini juga berkat tim gue yang pada rajin. Tanpe mereka kagak bisa segini.",
+      "Biasa aje sih, emang tugas gue.",
+      "Wah, kagak nyangka Bapak ngeh."
+    ],
+    "benar": 1,
+    "penjelasan": "Terima kasih yang tulus diikuti pengakuan kontribusi tim adalah respons yang matang dan menunjukkan karakter kepemimpinan.",
+    "catatan_budaya": "Betawi punya peribahasa 'Sekali dayung, dua tiga pulau terlampaui' — menghargai usaha bersama lebih dari sekadar klaim individual.",
+    "kalimat_susun": "Ini berkat tim gue yang rajin",
+    "keyakinan": 0.82,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Betawi",
+    "level": "Mahir",
+    "situasi": "Lo lagi di pasar Betawi dan mau nawar harga kain batik ke abang pedagang.",
+    "opsi": [
+      "Mahal amat! Kurangin dong!",
+      "Bang, boleh kurang dikit kagak? Gue beli dua sekalian nih buat oleh-oleh.",
+      "Kagak jadi beli deh kalau segitu.",
+      "Harganya nggak masuk akal."
+    ],
+    "benar": 1,
+    "penjelasan": "Menawar dengan menjanjikan membeli dua sekaligus adalah strategi yang menguntungkan kedua pihak dan disampaikan dengan sopan.",
+    "catatan_budaya": "Tawar-menawar di pasar Betawi adalah tradisi yang hidup. Pembeli yang langsung menerima harga pertama malah bisa dianggap aneh oleh pedagang.",
+    "kalimat_susun": "Boleh kurang dikit kagak gue beli dua",
+    "keyakinan": 0.86,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Betawi",
+    "level": "Pemula",
+    "situasi": "Adek lo kagak mau makan sayur padahal lo yang udah masak capek-capek.",
+    "opsi": [
+      "Lo harus makan! Dah gue yang masak capek-capek!",
+      "Eh dek, cobain dulu dong. Ini enak loh, gue bikin spesial. Buat kesehatan juga.",
+      "Ya udah, kagak usah makan.",
+      "Dasar susah."
+    ],
+    "benar": 1,
+    "penjelasan": "Membujuk dengan cara yang hangat dan menyebut keistimewaan masakan lebih efektif daripada memaksa.",
+    "catatan_budaya": "Dalam keluarga Betawi, makanan adalah ekspresi kasih sayang. Menolak makanan yang dimasak dengan susah payah bisa menyakiti perasaan si pembuat.",
+    "kalimat_susun": "Cobain dulu gue bikin spesial",
+    "keyakinan": 0.87,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Betawi",
+    "level": "Mahir",
+    "situasi": "Lo ketemu mantan temen sekolah yang dulu sempet ada masalah sama lo. Dia nyapa lo duluan.",
+    "opsi": [
+      "Kagak kenal.",
+      "Oh, lo! Gue kagak nyangka ketemu di sini. Gimane kabar? Udah lama ya.",
+      "Eh, masih inget gue?",
+      "Pergi aje deh."
+    ],
+    "benar": 1,
+    "penjelasan": "Merespons dengan hangat dan tidak menyinggung masa lalu adalah kecerdasan sosial yang menunjukkan kedewasaan.",
+    "catatan_budaya": "Dalam budaya Betawi, 'pantang nyimpen dendam' — menyimpan dendam dianggap melemahkan diri sendiri. Membuka lembaran baru dihargai.",
+    "kalimat_susun": "Kagak nyangka ketemu di sini gimane kabar",
+    "keyakinan": 0.83,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Betawi",
+    "level": "Pemula",
+    "situasi": "Lo diundang makan di rumah tetangge, makanannya kurang cocok di lidah lo. Dia nanya lo suka kagak.",
+    "opsi": [
+      "Kurang enak sih.",
+      "Enak banget! Bisa minta resepnya?",
+      "Lumayan.",
+      "Wah, masakan ente beda dari biasanya, bumbunya khas banget. Gue suka variasinya."
+    ],
+    "benar": 3,
+    "penjelasan": "Memuji aspek spesifik yang benar-benar ada (bumbu khas) tanpa berbohong adalah cara paling bijak.",
+    "catatan_budaya": "Di komunitas Betawi yang erat, menolak masakan tetangga bisa merusak hubungan. Pujian spesifik lebih tulus daripada pujian kosong.",
+    "kalimat_susun": "Bumbunya khas banget gue suka",
+    "keyakinan": 0.84,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Betawi",
+    "level": "Mahir",
+    "situasi": "Kagak setuju sama keputusan bos di rapat, tapi mau nyampein dengan sopan.",
+    "opsi": [
+      "Keputusan ini kagak bener, Pak.",
+      "Pak, boleh gue nambahin? Gue khawatir pendekatan ini bakal ketemu hambatan di lapangan karena...",
+      "Terserah Bapak aje deh.",
+      "Gue rasa ini kagak tepat."
+    ],
+    "benar": 1,
+    "penjelasan": "Meminta izin bicara dan menyampaikan kekhawatiran dengan alasan konkret menunjukkan profesionalisme sambil tetap menghormati otoritas.",
+    "catatan_budaya": "Betawi punya prinsip 'mulut manis hati bersih' — berbicara dengan sopan bukan berarti tidak jujur, tapi cara menyampaikan kebenaran dengan baik.",
+    "kalimat_susun": "Boleh gue nambahin pendapat Pak",
+    "keyakinan": 0.85,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Betawi",
+    "level": "Pemula",
+    "situasi": "Temen lo lagi sedih karena gagal ujian. Lo mau ngibur dengan gaya Betawi yang hangat.",
+    "opsi": [
+      "Makanya belajar.",
+      "Kagak ape-ape! Masih ada kesempatan lagi. Lo pasti bisa, gue yakin.",
+      "Gue udah tau sih bakal gagal.",
+      "Kenape bisa gagal sih?"
+    ],
+    "benar": 1,
+    "penjelasan": "Semangat yang tulus dan kepercayaan pada kemampuan teman adalah dukungan terbaik.",
+    "catatan_budaya": "Betawi punya tradisi 'begawai' — saling mendukung di saat susah. Memberi semangat adalah kewajiban sosial dalam komunitas Betawi.",
+    "kalimat_susun": "Masih ada kesempatan lo pasti bisa",
+    "keyakinan": 0.90,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Betawi",
+    "level": "Pemula",
+    "situasi": "Lo lagi di angkot dan mau turun, tapi orang di depan lo kagak bergerak. Lo perlu lewat.",
+    "opsi": [
+      "Minggir dong!",
+      "Numpang lewat ya, gue mau turun nih.",
+      "Hei, gue mau turun, pergi!",
+      "Ah, susah banget lewatnya."
+    ],
+    "benar": 1,
+    "penjelasan": "'Numpang lewat' adalah ungkapan khas yang sopan saat ingin melewati orang lain dalam ruang publik di Jakarta.",
+    "catatan_budaya": "Di lingkungan padat seperti angkot atau pasar Betawi, ungkapan 'numpang lewat' adalah cara paling halus meminta ruang tanpa menyinggung.",
+    "kalimat_susun": "Numpang lewat gue mau turun",
+    "keyakinan": 0.88,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Betawi",
+    "level": "Pemula",
+    "situasi": "Lo mau minjem sepeda motor temen lo buat pergi ke pasar. Lo harus nanya dulu.",
+    "opsi": [
+      "Pinjemn motornya sekarang.",
+      "Eh, boleh gue pinjem motor lo kagak? Sebentar aja, mau ke pasar.",
+      "Motormu gue ambil dulu ya.",
+      "Kenapa lo kagak mau minjemin?"
+    ],
+    "benar": 1,
+    "penjelasan": "Meminta dengan 'boleh kagak' dan menjelaskan tujuan serta durasi adalah cara sopan meminjam barang milik teman.",
+    "catatan_budaya": "Dalam budaya Betawi, kepercayaan adalah modal utama dalam pertemanan. Meminjam dengan sopan dan menepati janji mengembalikan menjaga kepercayaan itu.",
+    "kalimat_susun": "Boleh gue pinjem motor lo kagak",
+    "keyakinan": 0.87,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Betawi",
+    "level": "Mahir",
+    "situasi": "Temen lo cerita sambil mengeluh panjang lebar tentang masalahnya. Dia sebenernya cuma butuh didengar, bukan solusi.",
+    "opsi": [
+      "Ya udah, begini aja solusinya...",
+      "Ih, lo harusnya ngelakuin ini...",
+      "Gue denger lo. Emang berat banget ya. Lo udah kuat banget ngadepin ini semua.",
+      "Kenapa lo kagak dari tadi bilang ke gue?"
+    ],
+    "benar": 2,
+    "penjelasan": "Menunjukkan empati dan mengakui kekuatan teman lebih berharga daripada langsung memberikan solusi yang tidak diminta.",
+    "catatan_budaya": "Betawi punya budaya 'kumpul bareng' — berkumpul dan saling curhat adalah cara mempererat hubungan. Mendengarkan dengan tulus adalah bentuk penghargaan tertinggi.",
+    "kalimat_susun": "Gue denger lo emang berat banget ya",
+    "keyakinan": 0.84,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Betawi",
+    "level": "Mahir",
+    "situasi": "Lo lagi kerja di kantor dan ngeliat junior lo salah prosedur. Lo kagak mau bikin dia malu di depan orang banyak.",
+    "opsi": [
+      "Eh, lo salah tuh, harusnya begini!",
+      "Prosedurnya salah banget, lo kagak baca panduannya?",
+      "Eh, bentar ya, gue mau ngomongin sesuatu ke lo sebentar. Ada yang perlu kita cek bareng.",
+      "Biarin aje, bukan urusan gue."
+    ],
+    "benar": 2,
+    "penjelasan": "Mengajak bicara secara pribadi dan menggunakan 'kita' (bukan 'lo salah') melindungi harga diri junior sambil menyelesaikan masalah.",
+    "catatan_budaya": "Dalam pergaulan Betawi, 'jangan permaluin orang di depan banyak orang' adalah prinsip tak tertulis. Menegur secara langsung di depan umum bisa bikin hubungan retak.",
+    "kalimat_susun": "Ada yang perlu kita cek bareng",
+    "keyakinan": 0.85,
+    "perlu_verifikasi": true
+  }
+]

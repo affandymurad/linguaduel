@@ -1,0 +1,226 @@
+[
+  {
+    "bahasa": "Indonesia",
+    "level": "Pemula",
+    "situasi": "Rekan kerjamu meminta tolong mengerjakan tugasnya, padahal kamu sendiri sedang sangat sibuk dengan deadline.",
+    "opsi": [
+      "Maaf, aku lagi banyak kerjaan. Nanti aku bantu kalau sudah selesai.",
+      "Oke, santai aja, aku kerjain semua.",
+      "Terserah kamu deh.",
+      "Kamu seharusnya bisa sendiri."
+    ],
+    "benar": 0,
+    "penjelasan": "Menolak dengan sopan dan menawarkan bantuan di waktu lain adalah respons yang paling profesional dan tidak menyinggung.",
+    "catatan_budaya": "Budaya Indonesia menghargai kesopanan dalam menolak. Langsung menolak tanpa tawaran alternatif dianggap kasar.",
+    "kalimat_susun": "Maaf aku lagi banyak kerjaan",
+    "keyakinan": 0.92
+  },
+  {
+    "bahasa": "Indonesia",
+    "level": "Pemula",
+    "situasi": "Kamu bertemu tetangga baru di depan rumah. Kamu ingin menyapa dengan ramah.",
+    "opsi": [
+      "Eh, kamu siapa?",
+      "Halo, saya Budi. Senang berkenalan, sudah lama tinggal di sini?",
+      "Permisi, ada perlu apa?",
+      "Selamat datang, silakan masuk."
+    ],
+    "benar": 1,
+    "penjelasan": "Memperkenalkan diri terlebih dahulu sambil mengajukan pertanyaan ringan menunjukkan keramahan yang wajar.",
+    "catatan_budaya": "Di Indonesia, sapaan ke tetangga baru biasanya disertai perkenalan dan pertanyaan basa-basi tentang asal atau lamanya tinggal.",
+    "kalimat_susun": "Senang berkenalan sudah lama tinggal",
+    "keyakinan": 0.90
+  },
+  {
+    "bahasa": "Indonesia",
+    "level": "Pemula",
+    "situasi": "Kamu hendak pergi ke warung makan dan ingin tahu apakah temanmu mau ikut.",
+    "opsi": [
+      "Ayo kita pergi sekarang, tidak ada pilihan lain.",
+      "Eh, mau nemenin aku makan nggak? Aku mau ke warung.",
+      "Kamu belum makan? Kasihan deh.",
+      "Tunggu di sini, aku balik sebentar."
+    ],
+    "benar": 1,
+    "penjelasan": "Mengajak dengan nada santai dan memberi kebebasan memilih adalah cara paling alami dalam percakapan sehari-hari.",
+    "catatan_budaya": "Mengajak makan bersama adalah salah satu cara paling umum mempererat pertemanan di Indonesia.",
+    "kalimat_susun": "Mau nemenin aku makan nggak",
+    "keyakinan": 0.91
+  },
+  {
+    "bahasa": "Indonesia",
+    "level": "Mahir",
+    "situasi": "Atasanmu memuji pekerjaanmu di depan tim, padahal kamu merasa ada kontribusi besar dari rekan lain.",
+    "opsi": [
+      "Terima kasih, Pak. Tapi keberhasilan ini juga berkat kerja keras tim, terutama rekan-rekan saya.",
+      "Iya, memang saya yang paling hebat di sini.",
+      "Biasa saja sih, ini sudah tugas saya.",
+      "Wah, saya tidak menyangka Bapak memperhatikan."
+    ],
+    "benar": 0,
+    "penjelasan": "Menerima pujian dengan rendah hati sambil mengakui kontribusi tim mencerminkan kepemimpinan yang matang dan budaya gotong royong.",
+    "catatan_budaya": "Dalam budaya kerja Indonesia, menonjolkan diri sendiri terlalu berlebihan di depan atasan bisa membuat rekan kerja kurang nyaman.",
+    "kalimat_susun": "Keberhasilan ini berkat kerja keras tim",
+    "keyakinan": 0.93
+  },
+  {
+    "bahasa": "Indonesia",
+    "level": "Mahir",
+    "situasi": "Adikmu pulang terlambat tanpa kabar. Sebagai kakak, kamu khawatir tapi tidak ingin terdengar menghakimi.",
+    "opsi": [
+      "Kamu ini tidak pernah kasih kabar! Ibu khawatir tahu!",
+      "Dari mana saja? Kalau pulang malam, kabarin dong. Kami khawatir.",
+      "Sudahlah, terserah kamu.",
+      "Besok jangan keluar lagi kalau begitu caranya."
+    ],
+    "benar": 1,
+    "penjelasan": "Menyampaikan kekhawatiran dengan kalimat 'kami khawatir' lebih efektif dan tidak defensif dibanding kalimat tuduhan langsung.",
+    "catatan_budaya": "Komunikasi keluarga di Indonesia cenderung tidak langsung saat menegur; menyertakan rasa khawatir lebih diterima daripada marah.",
+    "kalimat_susun": "Kalau pulang malam kabarin dong",
+    "keyakinan": 0.88
+  },
+  {
+    "bahasa": "Indonesia",
+    "level": "Mahir",
+    "situasi": "Di pasar, penjual menawarkan harga tinggi. Kamu ingin menawar dengan tetap menjaga hubungan baik.",
+    "opsi": [
+      "Kemahalan banget. Turunin dulu, baru aku beli.",
+      "Wah, mahal sekali ya. Bisa kurang sedikit nggak, Pak? Di sebelah sana ada yang lebih murah.",
+      "Nggak jadi deh kalau segitu.",
+      "Harga segini nggak masuk akal."
+    ],
+    "benar": 1,
+    "penjelasan": "Menawar dengan menyebut perbandingan harga secara sopan memberi penjual ruang untuk menurunkan harga tanpa merasa dipermalukan.",
+    "catatan_budaya": "Menawar di pasar tradisional Indonesia adalah hal yang lumrah dan bahkan diharapkan; penting untuk tetap ramah agar penjual mau berkompromi.",
+    "kalimat_susun": "Bisa kurang sedikit nggak Pak",
+    "keyakinan": 0.90
+  },
+  {
+    "bahasa": "Indonesia",
+    "level": "Pemula",
+    "situasi": "Gurumu bertanya apakah kamu sudah mengerjakan PR, padahal kamu lupa.",
+    "opsi": [
+      "Sudah, Bu.",
+      "Maaf, Bu. Saya lupa mengerjakan PR-nya. Apakah saya boleh mengumpulkan besok?",
+      "PR? PR yang mana ya, Bu?",
+      "Nanti saja, Bu."
+    ],
+    "benar": 1,
+    "penjelasan": "Mengakui kesalahan dan langsung menawarkan solusi menunjukkan tanggung jawab dan rasa hormat terhadap guru.",
+    "catatan_budaya": "Dalam konteks sekolah di Indonesia, meminta maaf dan menawarkan solusi lebih dihargai daripada berbohong atau menghindar.",
+    "kalimat_susun": "Maaf saya lupa mengerjakan PR",
+    "keyakinan": 0.94
+  },
+  {
+    "bahasa": "Indonesia",
+    "level": "Pemula",
+    "situasi": "Temanmu baru saja gagal dalam ujian dan terlihat sedih. Kamu ingin menghiburnya.",
+    "opsi": [
+      "Nggak apa-apa, kan masih ada kesempatan berikutnya. Kamu pasti bisa.",
+      "Makanya rajin belajar.",
+      "Aku sudah tahu sih kamu bakal gagal.",
+      "Kamu kenapa sih bisa gagal?"
+    ],
+    "benar": 0,
+    "penjelasan": "Memberikan semangat dan menunjukkan kepercayaan pada kemampuan teman adalah bentuk dukungan yang paling tulus.",
+    "catatan_budaya": "Orang Indonesia umumnya menghindari konfrontasi saat seseorang sedang bersedih; fokus pada dukungan lebih diutamakan daripada kritik.",
+    "kalimat_susun": "Masih ada kesempatan kamu pasti bisa",
+    "keyakinan": 0.95
+  },
+  {
+    "bahasa": "Indonesia",
+    "level": "Mahir",
+    "situasi": "Kamu tidak setuju dengan keputusan manajermu dalam rapat, tapi ingin menyampaikannya dengan profesional.",
+    "opsi": [
+      "Saya rasa keputusan ini kurang tepat.",
+      "Pak, boleh saya menyampaikan perspektif lain? Saya khawatir pendekatan ini mungkin menghadapi tantangan di lapangan karena...",
+      "Keputusan ini salah, Pak.",
+      "Terserah Bapak saja deh."
+    ],
+    "benar": 1,
+    "penjelasan": "Meminta izin bicara, menyampaikan perspektif dengan data/alasan, dan menggunakan kata 'mungkin' menunjukkan profesionalisme tanpa konfrontasi.",
+    "catatan_budaya": "Hierarki masih kuat di lingkungan kerja Indonesia; menentang atasan harus dilakukan dengan sangat hati-hati dan menggunakan bahasa yang menghormati posisi mereka.",
+    "kalimat_susun": "Boleh saya menyampaikan perspektif lain",
+    "keyakinan": 0.91
+  },
+  {
+    "bahasa": "Indonesia",
+    "level": "Mahir",
+    "situasi": "Kamu diundang makan malam ke rumah teman, dan makanan yang disajikan tidak sesuai seleramu. Tuan rumah bertanya apakah kamu suka.",
+    "opsi": [
+      "Jujur, kurang cocok di lidah aku.",
+      "Enak banget! Boleh minta resepnya nggak?",
+      "Hmm, lumayan sih.",
+      "Wah, masakan kamu selalu istimewa. Aku suka variasi bumbunya, beda dari yang biasa aku coba."
+    ],
+    "benar": 3,
+    "penjelasan": "Memberikan pujian yang spesifik dan jujur (tentang bumbu) tanpa berbohong soal selera pribadi adalah cara paling diplomatik.",
+    "catatan_budaya": "Di Indonesia, menolak atau mengkritik masakan tuan rumah dianggap sangat tidak sopan. Menemukan aspek positif yang nyata adalah seni sosial penting.",
+    "kalimat_susun": "Aku suka variasi bumbunya",
+    "keyakinan": 0.87
+  },
+  {
+    "bahasa": "Indonesia",
+    "level": "Pemula",
+    "situasi": "Kamu sedang antre di kasir supermarket. Seseorang tiba-tiba menyerobot antrean di depanmu.",
+    "opsi": [
+      "Hei, kamu tidak lihat ada antrean!",
+      "Permisi, sepertinya antrean ada di belakang. Kita semua sedang menunggu.",
+      "Sudah biarin aja.",
+      "Dasar tidak tahu aturan."
+    ],
+    "benar": 1,
+    "penjelasan": "Menegur dengan sopan menggunakan kata 'permisi' dan menyertakan semua orang ('kita semua') mengurangi konfrontasi langsung.",
+    "catatan_budaya": "Di Indonesia, menegur orang asing secara langsung dengan nada keras dianggap tidak sopan. Pengingat yang halus lebih mudah diterima tanpa menimbulkan malu.",
+    "kalimat_susun": "Sepertinya antrean ada di belakang",
+    "keyakinan": 0.89
+  },
+  {
+    "bahasa": "Indonesia",
+    "level": "Pemula",
+    "situasi": "Kamu ingin meminjam buku catatan teman untuk belajar karena kamu sakit waktu pelajaran itu.",
+    "opsi": [
+      "Pinjam catatan kamu dong.",
+      "Eh, boleh pinjam catatan kamu nggak? Kemarin aku nggak masuk waktu pelajaran itu.",
+      "Kasih catatanmu ke aku.",
+      "Kenapa kamu nggak mau bantu aku?"
+    ],
+    "benar": 1,
+    "penjelasan": "Menjelaskan alasan (tidak hadir karena sakit) saat meminjam sesuatu membuat permintaan terasa lebih wajar dan mudah diterima.",
+    "catatan_budaya": "Transparansi alasan dalam permintaan tolong mencerminkan kejujuran yang dihargai. Tanpa alasan, permintaan bisa dianggap malas atau tidak bertanggung jawab.",
+    "kalimat_susun": "Boleh pinjam catatan kamu nggak",
+    "keyakinan": 0.91
+  },
+  {
+    "bahasa": "Indonesia",
+    "level": "Mahir",
+    "situasi": "Teman lama menghubungimu tiba-tiba setelah bertahun-tahun tidak ada kabar, langsung meminta bantuan finansial.",
+    "opsi": [
+      "Maaf, aku tidak bisa bantu.",
+      "Hei, senang mendengar kabarmu! Sudah lama sekali. Cerita dulu dong, apa yang sedang terjadi?",
+      "Kamu menghilang bertahun-tahun, sekarang minta bantuan?",
+      "Oke, berapa yang kamu butuhkan?"
+    ],
+    "benar": 1,
+    "penjelasan": "Merespons dengan hangat sambil mengarahkan ke percakapan memberi ruang untuk memahami situasi sebelum membuat keputusan tentang bantuan.",
+    "catatan_budaya": "Dalam budaya Indonesia, menolak langsung tanpa basa-basi bisa merusak hubungan jangka panjang. Membangun konteks percakapan dulu menunjukkan kepedulian yang tulus.",
+    "kalimat_susun": "Senang mendengar kabarmu sudah lama sekali",
+    "keyakinan": 0.86
+  },
+  {
+    "bahasa": "Indonesia",
+    "level": "Mahir",
+    "situasi": "Kamu melihat juniormu di kantor bekerja dengan cara yang kurang efisien, padahal kamu tidak diminta memberikan masukan.",
+    "opsi": [
+      "Cara kerja kamu salah.",
+      "Caramu itu nggak efektif.",
+      "Hei, boleh aku share cara yang pernah aku coba? Mungkin bisa membantu.",
+      "Biar aja, bukan urusanku."
+    ],
+    "benar": 2,
+    "penjelasan": "Menawarkan berbagi pengalaman sebagai masukan (bukan instruksi) memberi ruang junior untuk menerima atau menolak tanpa merasa dihakimi.",
+    "catatan_budaya": "Memberi masukan yang tidak diminta harus dilakukan dengan hati-hati. 'Share cara yang pernah aku coba' terdengar kolaboratif, bukan menggurui.",
+    "kalimat_susun": "Boleh aku share cara yang pernah aku coba",
+    "keyakinan": 0.88
+  }
+]

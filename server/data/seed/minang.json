@@ -1,0 +1,240 @@
+[
+  {
+    "bahasa": "Minang",
+    "level": "Pemula",
+    "situasi": "Kawan ang maminta tulung dek ang sadang sibuk bana manggarap karajo.",
+    "opsi": [
+      "Maaf, ambo sadang sibuk kini. Nanti ambo tolong kalau alah siap.",
+      "Oke, ambo karajan sadonyo.",
+      "Buek surang se lah.",
+      "Ambo ndak tau nak tolong camano."
+    ],
+    "benar": 0,
+    "penjelasan": "Menolak dengan sopan menggunakan 'maaf' dan menawarkan bantuan di waktu lain adalah cara yang paling beradab dalam budaya Minang.",
+    "catatan_budaya": "Dalam adat Minang, 'raso pareso' (rasa dan periksa) mengajarkan untuk memikirkan perasaan orang lain sebelum berbicara. Menolak dengan halus menunjukkan kesadaran sosial yang tinggi.",
+    "kalimat_susun": "Maaf ambo sadang sibuk kini",
+    "keyakinan": 0.87,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Minang",
+    "level": "Pemula",
+    "situasi": "Ang batamu jo jiran baru di muko rumah. Baa caronyo manyapo yang elok?",
+    "opsi": [
+      "Sia ang tu?",
+      "Assalamualaikum! Ambo Rajo. Baru pindah ka siko?",
+      "Nio ka mano?",
+      "Silakan masuk."
+    ],
+    "benar": 1,
+    "penjelasan": "Mengucapkan salam Islam diikuti perkenalan diri adalah cara menyapa yang paling sopan dalam budaya Minang yang Islami.",
+    "catatan_budaya": "Masyarakat Minang sangat menjunjung nilai Islam — 'Adat basandi syarak, syarak basandi Kitabullah' (Adat bersendikan syariah, syariah bersendikan Al-Quran). Salam adalah kewajiban.",
+    "kalimat_susun": "Assalamualaikum ambo Rajo baru pindah",
+    "keyakinan": 0.91,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Minang",
+    "level": "Pemula",
+    "situasi": "Ang nio minta tolong ka urang nan labiah tuo dengan sopan.",
+    "opsi": [
+      "Berikan ambo barang tu.",
+      "Permisi, Pak Etek/Mak Tuo. Ambo nio minta tolong sabantar.",
+      "Nio tu, bagi lah.",
+      "Dek apo ndak mau bagi?"
+    ],
+    "benar": 1,
+    "penjelasan": "Sapaan 'Pak Etek' (paman) atau 'Mak Tuo' (bibi) adalah panggilan hormat khas Minang untuk orang yang lebih tua.",
+    "catatan_budaya": "Sistem kekerabatan matrilineal Minang menciptakan panggilan khas: 'Mamak' (paman dari pihak ibu), 'Etek', 'Mak Tuo'. Memanggil dengan gelar yang tepat sangat penting.",
+    "kalimat_susun": "Permisi Pak Etek ambo nio minta tolong",
+    "keyakinan": 0.89,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Minang",
+    "level": "Mahir",
+    "situasi": "Bos ang mamuji karajo ang di muko tim. Ang nio marespons dengan rendah hati.",
+    "opsi": [
+      "Iyo, ambo nan paliang pandai di siko.",
+      "Tarimo kasih, Pak. Tapi ko hasil karajo basamo. Tanpa dukungan tim, ambo ndak bisa sacando ko.",
+      "Biaso se, memang karajo ambo.",
+      "Wah, ndak disangko Bapak maagak ambo."
+    ],
+    "benar": 1,
+    "penjelasan": "Berterima kasih dan mengakui kontribusi tim mencerminkan sifat 'tahu diri' yang sangat dihargai dalam budaya Minang.",
+    "catatan_budaya": "Pepatah Minang: 'Kamanakan baraja ka mamak, mamak baraja ka pangulu' — kita selalu belajar dari yang lebih berpengalaman dan keberhasilan selalu kolektif.",
+    "kalimat_susun": "Ko hasil karajo basamo jo tim",
+    "keyakinan": 0.88,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Minang",
+    "level": "Mahir",
+    "situasi": "Ang ndak satuju jo keputusan kepala di rapat. Baa caronyo manyampaikannyo dengan sopan?",
+    "opsi": [
+      "Keputusan ko ndak bana.",
+      "Pak, buliah ambo manyampaikan pandangan lain? Ambo khawatir pendekatan ko mungkin manamui hambatan dek...",
+      "Taraserah Bapak se lah.",
+      "Ko keputusan nan salah, Pak."
+    ],
+    "benar": 1,
+    "penjelasan": "Meminta izin berbicara dan menyampaikan kekhawatiran dengan alasan konkret adalah cara yang menghormati hierarki.",
+    "catatan_budaya": "Dalam musyawarah Minang, setiap suara dihargai tapi disampaikan melalui 'kato nan ampek' (empat cara bicara yang sesuai konteks). Menentang langsung tanpa adab dianggap 'kurang ajar'.",
+    "kalimat_susun": "Buliah ambo manyampaikan pandangan lain",
+    "keyakinan": 0.86,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Minang",
+    "level": "Pemula",
+    "situasi": "Ang sadang di pasa dan nio manawar rego jo pedagang.",
+    "opsi": [
+      "Mahal bana! Kurangi!",
+      "Pak/Uni, dapek kurang sikit ndak? Ambo nio mambali duo.",
+      "Ndak jadi mambali kalau sagitu.",
+      "Rego ko ndak masuk akal."
+    ],
+    "benar": 1,
+    "penjelasan": "Sapaan 'Pak' atau 'Uni' (kakak perempuan) sebelum menawar adalah adab penting di pasar Minang.",
+    "catatan_budaya": "'Uni' adalah sapaan khas Minang untuk kakak perempuan, digunakan pula untuk perempuan yang lebih tua. Sapaan yang tepat membuka pintu negosiasi yang lebih baik.",
+    "kalimat_susun": "Uni dapek kurang sikit ndak ambo bali duo",
+    "keyakinan": 0.90,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Minang",
+    "level": "Pemula",
+    "situasi": "Adiak ang ndak nio baraja dan labiah suko main HP.",
+    "opsi": [
+      "Baraja kini! Jan main HP se!",
+      "Diak, baraja dulu yo. Nanti kalau alah siap, main HP puas-puas.",
+      "Biakan se lah.",
+      "Nanti ambo laporan ka Amak."
+    ],
+    "benar": 1,
+    "penjelasan": "Menawarkan waktu bermain setelah belajar memberikan motivasi yang positif tanpa konfrontasi.",
+    "catatan_budaya": "Dalam keluarga Minang yang matrilineal, kakak memiliki peran penting dalam mendidik adik. Pendekatan persuasif sejalan dengan nilai 'bajalan baampiang, bakato bapatitih' (berbuat dengan pertimbangan).",
+    "kalimat_susun": "Baraja dulu nanti main HP puas-puas",
+    "keyakinan": 0.88,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Minang",
+    "level": "Mahir",
+    "situasi": "Ang diundang makan di rumah kawan. Masakan yang dihidangkan kurang cocok di lidah ang. Tuan rumah bertanya ang suka ndak.",
+    "opsi": [
+      "Kurang cocok di lidah ambo.",
+      "Lamak bana! Buliah minta reseknyo?",
+      "Lumayan.",
+      "Wah, masakan ang memang ado ciri khasnyo diri. Bumbunyo bado dari biaso ambo makan, unik bana."
+    ],
+    "benar": 3,
+    "penjelasan": "Memuji keunikan yang nyata (bumbu khas) tanpa berbohong adalah kecerdasan sosial Minang.",
+    "catatan_budaya": "Pepatah Minang: 'Kato manis mambao rabuik' (kata manis membawa kebaikan) — berbicara dengan lemah lembut dan penuh kebaikan adalah nilai utama dalam pergaulan Minang.",
+    "kalimat_susun": "Bumbunyo bado unik bana",
+    "keyakinan": 0.85,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Minang",
+    "level": "Pemula",
+    "situasi": "Kawan ang gagal ujian dan katingali sadiah. Ang nio manghibur.",
+    "opsi": [
+      "Makanya baraja dulu.",
+      "Ndak apo-apo, masih ado kasempatan lagi. Ang pasti bisa kalau mancubo lai.",
+      "Ambo alah tau ang bakal gagal.",
+      "Dek apo bisa gagal?"
+    ],
+    "benar": 1,
+    "penjelasan": "Semangat yang tulus dan keyakinan pada kemampuan teman adalah dukungan terbaik.",
+    "catatan_budaya": "Pepatah Minang: 'Sakali merengkuh dayung, dua tiga pulau terlampau' — semangat dan dukungan yang diberikan sekali bisa menggerakkan banyak hal. Memberi semangat adalah investasi sosial.",
+    "kalimat_susun": "Masih ado kasempatan ang pasti bisa",
+    "keyakinan": 0.92,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Minang",
+    "level": "Mahir",
+    "situasi": "Ang nio menegur rekan kerja nan acok telat mengumpulkan laporan, tapi ndak mau menyakiti hatinya.",
+    "opsi": [
+      "Ang acok talambek, ko ndak bisa.",
+      "Eh, ang baik-baik se? Ambo caliak ang ado kasulitan jo deadline. Ado nan bisa ambo bantu?",
+      "Terpaksa lapor ka bos.",
+      "Ang perlu improve diri."
+    ],
+    "benar": 1,
+    "penjelasan": "Mendekati dengan empati dan menawarkan bantuan lebih efektif daripada teguran langsung.",
+    "catatan_budaya": "Dalam adat Minang, 'bajapuik' adalah tradisi saling menjemput dan membantu. Mendekati orang dengan niat membantu, bukan menghakimi, adalah nilai yang tertanam dalam budaya Minang.",
+    "kalimat_susun": "Ado nan bisa ambo bantu ang",
+    "keyakinan": 0.86,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Minang",
+    "level": "Pemula",
+    "situasi": "Ang lagi di dalam angkot dan nio turun, tapi urang di muko ndak bergerak. Ang butuh jalan.",
+    "opsi": [
+      "Minggir dulu!",
+      "Permisi, ambo nio turun di siko.",
+      "Hei, baralapeh dulu!",
+      "Payah bana nak jalan."
+    ],
+    "benar": 1,
+    "penjelasan": "'Permisi' adalah kata sopan yang universal dan digunakan luas dalam budaya Minang saat memerlukan jalan di ruang publik.",
+    "catatan_budaya": "Dalam nilai Minang, 'baaso jo bapakaian' (beradab dan berperilaku baik) mengajarkan bahwa cara meminta sesuatu mencerminkan karakter seseorang.",
+    "kalimat_susun": "Permisi ambo nio turun di siko",
+    "keyakinan": 0.89,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Minang",
+    "level": "Pemula",
+    "situasi": "Ang nio maminjam buku catatan kawan ang untuak belajar, dek ang tido waktu kuliah itu.",
+    "opsi": [
+      "Pinjamkan catatanmu!",
+      "Eh, buliah ambo pinjam catatan ang? Ambo ndak masuk waktu kuliah itu.",
+      "Kasihkan catatanmu ka ambo.",
+      "Dek apo ang ndak mau pinjamkan?"
+    ],
+    "benar": 1,
+    "penjelasan": "Meminta dengan 'buliah' (boleh) dan menjelaskan alasan membuat permintaan terasa wajar dan sopan.",
+    "catatan_budaya": "Dalam pergaulan Minang, kejujuran alasan dalam meminta tolong sangat dihargai — ini sejalan dengan nilai 'malu jo sopan' (malu dan sopan) yang menjadi pegangan hidup.",
+    "kalimat_susun": "Buliah ambo pinjam catatan ang",
+    "keyakinan": 0.90,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Minang",
+    "level": "Mahir",
+    "situasi": "Ang manarimo kritik tajam dari kawan soal karajo ang. Kritik tu bana, tapi caronyo kasar.",
+    "opsi": [
+      "Ang memang ndak bisa kasih semangat.",
+      "Tarimo kasih atas perhatian ang. Ambo akan pikiran. Tapi caronyo bisa labiah elok.",
+      "Karajo ang pun ndak sempurno.",
+      "Ambo ndak minta pendapat ang."
+    ],
+    "benar": 1,
+    "penjelasan": "Menerima kritik dengan berterima kasih dan menyampaikan harapan cara yang lebih baik menunjukkan kedewasaan sambil menjaga hubungan.",
+    "catatan_budaya": "Pepatah Minang 'Kok elok nan ambo nio, kok buruak nan ambo jauhi' — menerima yang baik dan menjauhi yang buruk. Menerima kritik dengan lapang dada adalah tanda kebijaksanaan.",
+    "kalimat_susun": "Tarimo kasih ambo akan pikiran",
+    "keyakinan": 0.86,
+    "perlu_verifikasi": true
+  },
+  {
+    "bahasa": "Minang",
+    "level": "Mahir",
+    "situasi": "Ang caliak junior ang di kantor karajo jo cara nan kurang efisien, tapi ang ndak diminta kasih saran.",
+    "opsi": [
+      "Caronyo ko salah.",
+      "Karajo ang ko ndak efisien.",
+      "Eh, ambo punyo caro nan pernah ambo coba. Ang mau ambo caritoan?",
+      "Biakan se, bukan urusan ambo."
+    ],
+    "benar": 2,
+    "penjelasan": "Menawarkan berbagi pengalaman sebagai cerita (bukan perintah) memberi ruang junior untuk menerima atau menolak tanpa merasa dihakimi.",
+    "catatan_budaya": "Dalam budaya Minang, 'mamak' (paman/figur senior) berbagi ilmu dengan cara yang bijak dan tidak merendahkan. Prinsip ini berlaku juga di tempat kerja.",
+    "kalimat_susun": "Ambo punyo caro ang mau ambo caritoan",
+    "keyakinan": 0.85,
+    "perlu_verifikasi": true
+  }
+]

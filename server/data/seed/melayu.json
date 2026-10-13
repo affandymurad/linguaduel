@@ -1,0 +1,216 @@
+[
+  {
+    "bahasa": "Melayu",
+    "level": "Pemula",
+    "situasi": "Kawan kamu meminta tolong mengerjakan tugasnya, padahal kamu sedang sibuk.",
+    "opsi": [
+      "Maaf, aku tengah sibuk sekarang. Nanti aku tolong kalau dah selesai kerja.",
+      "Baik, aku buat semua sekali.",
+      "Buat sendiri lah.",
+      "Aku tak tau nak tolong macam mana."
+    ],
+    "benar": 0,
+    "penjelasan": "Menolak dengan sopan menggunakan 'maaf' dan menawarkan bantuan di lain waktu adalah cara yang paling beradab dalam budaya Melayu.",
+    "catatan_budaya": "Dalam adat Melayu, 'bahasa menunjukkan bangsa' — cara berbicara mencerminkan akhlak. Penolakan halus lebih dihargai daripada penolakan tegas.",
+    "kalimat_susun": "Maaf aku tengah sibuk sekarang"
+  },
+  {
+    "bahasa": "Melayu",
+    "level": "Pemula",
+    "situasi": "Kamu bertemu jiran baru di depan rumah. Kamu ingin menyapa dengan ramah.",
+    "opsi": [
+      "Eh, siapa nama kamu?",
+      "Assalamualaikum, nama saya Ahmad. Baru pindah ke sini ke?",
+      "Nak ke mana tu?",
+      "Jemput masuk rumah."
+    ],
+    "benar": 1,
+    "penjelasan": "Mengucapkan salam Islam diikuti perkenalan diri adalah cara menyapa jiran baru yang paling sopan dalam budaya Melayu.",
+    "catatan_budaya": "Dalam masyarakat Melayu, mengucapkan salam 'Assalamualaikum' kepada sesama Muslim adalah kewajiban sosial yang mempererat hubungan.",
+    "kalimat_susun": "Assalamualaikum nama saya Ahmad"
+  },
+  {
+    "bahasa": "Melayu",
+    "level": "Pemula",
+    "situasi": "Kamu hendak meminta sesuatu daripada orang yang lebih tua. Bagaimana cara yang betul?",
+    "opsi": [
+      "Berikan saya benda tu.",
+      "Boleh tak saya minta tolong dengan Pak Cik/Mak Cik?",
+      "Nak tu, bagi lah.",
+      "Kenapa tak bagi?"
+    ],
+    "benar": 1,
+    "penjelasan": "Menggunakan 'Pak Cik' atau 'Mak Cik' sebagai sapaan hormat kepada orang yang lebih tua adalah adab Melayu yang penting.",
+    "catatan_budaya": "Panggilan hormat dalam Melayu seperti 'Pak Cik', 'Mak Cik', 'Abang', 'Kakak' menentukan hubungan sosial dan menunjukkan rasa hormat.",
+    "kalimat_susun": "Boleh tak saya minta tolong"
+  },
+  {
+    "bahasa": "Melayu",
+    "level": "Mahir",
+    "situasi": "Bos kamu memuji kerja kamu di hadapan pasukan. Kamu mahu bertindak balas dengan rendah hati.",
+    "opsi": [
+      "Memang saya yang terbaik dalam pasukan.",
+      "Terima kasih, Tuan. Kejayaan ini milik kita bersama. Tanpa sokongan rakan-rakan, saya tidak mampu.",
+      "Biasalah, ini tugas saya.",
+      "Wah, tak sangka Tuan perasan."
+    ],
+    "benar": 1,
+    "penjelasan": "Berterima kasih dan mengakui kontribusi pasukan mencerminkan sifat 'tahu diri' yang dihargai dalam budaya Melayu.",
+    "catatan_budaya": "Peribahasa Melayu: 'Berat sama dipikul, ringan sama dijinjing' — keberhasilan dan beban ditanggung bersama. Mengakui kontribusi tim adalah nilai utama.",
+    "kalimat_susun": "Kejayaan ini milik kita bersama"
+  },
+  {
+    "bahasa": "Melayu",
+    "level": "Mahir",
+    "situasi": "Kamu tidak bersetuju dengan keputusan ketua di mesyuarat. Kamu ingin menyuarakan pendapat dengan sopan.",
+    "opsi": [
+      "Keputusan ini tidak betul.",
+      "Tuan, boleh saya menyuarakan pandangan berbeza? Saya bimbang pendekatan ini mungkin menghadapi cabaran kerana...",
+      "Saya ikut sahajalah.",
+      "Ini keputusan yang salah, Tuan."
+    ],
+    "benar": 1,
+    "penjelasan": "Meminta izin berbicara dan menyampaikan kerisauan dengan alasan konkret adalah cara profesional yang menghormati hierarki.",
+    "catatan_budaya": "Dalam budaya Melayu, 'adat istiadat' mengatur cara berbicara kepada pemimpin. Tidak sopan untuk menentang ketua secara langsung tanpa adab.",
+    "kalimat_susun": "Boleh saya menyuarakan pandangan berbeza"
+  },
+  {
+    "bahasa": "Melayu",
+    "level": "Pemula",
+    "situasi": "Kamu menawar harga di pasar malam dengan penjual yang ramah.",
+    "opsi": [
+      "Mahal sangat! Kurangkan!",
+      "Abang, boleh kurang sikit tak? Saya nak beli dua tiga biji ni.",
+      "Tak jadi beli kalau harga macam tu.",
+      "Harga ni tak munasabah langsung."
+    ],
+    "benar": 1,
+    "penjelasan": "Menggunakan sapaan 'Abang' dan menawarkan membeli lebih banyak adalah cara menawar yang sopan dan efektif.",
+    "catatan_budaya": "Pasar malam Melayu adalah ruang sosial. Cara menawar dengan sopan bukan sekadar mendapat harga murah, tapi membina hubungan dengan penjual.",
+    "kalimat_susun": "Abang boleh kurang sikit tak"
+  },
+  {
+    "bahasa": "Melayu",
+    "level": "Pemula",
+    "situasi": "Adik kamu tidak mahu buat kerja sekolah dan lebih suka bermain game.",
+    "opsi": [
+      "Tutup game tu sekarang! Buat kerja sekolah!",
+      "Adik, buat kerja sekolah dulu ya. Nanti boleh main game puas-puas bila dah siap.",
+      "Dah, biar je lah.",
+      "Nanti abang/kakak bagitahu mak."
+    ],
+    "benar": 1,
+    "penjelasan": "Menawarkan ganjaran (masa bermain selepas siap kerja) lebih efektif daripada arahan tegas atau ancaman.",
+    "catatan_budaya": "Dalam keluarga Melayu, adab hormat kepada abang atau kakak memang ada, tapi pendekatan lembut lebih berkesan daripada arahan keras kepada adik.",
+    "kalimat_susun": "Buat kerja sekolah dulu nanti boleh main"
+  },
+  {
+    "bahasa": "Melayu",
+    "level": "Mahir",
+    "situasi": "Kamu dijemput makan di rumah kawan. Makanan yang dihidang kurang mengena di hati kamu. Tuan rumah bertanya adakah kamu suka.",
+    "opsi": [
+      "Kurang kena dengan selera saya.",
+      "Sedap sangat! Boleh ajar resepi?",
+      "Oklah, boleh makan.",
+      "Masakan awak memang ada kelainan tersendiri. Perencah yang awak guna tu buat ia rasa berbeza dari biasa."
+    ],
+    "benar": 3,
+    "penjelasan": "Memuji aspek spesifik yang benar tanpa berbohong adalah kecerdasan sosial Melayu yang disebut 'budi bahasa'.",
+    "catatan_budaya": "Peribahasa: 'Budi bahasa, budi pekerti' — cara berbicara mencerminkan kehalusan budi. Memuji masakan tuan rumah adalah adat penting dalam menjaga hubungan.",
+    "kalimat_susun": "Perencah yang awak guna memang berbeza"
+  },
+  {
+    "bahasa": "Melayu",
+    "level": "Pemula",
+    "situasi": "Kawan kamu gagal dalam peperiksaan dan kelihatan sedih. Kamu ingin memberi semangat.",
+    "opsi": [
+      "Patutlah, tak belajar.",
+      "Tak apa, masih ada peluang lagi. Awak pasti boleh kalau cuba lagi.",
+      "Saya dah agak dah awak akan gagal.",
+      "Kenapa boleh gagal ni?"
+    ],
+    "benar": 1,
+    "penjelasan": "Kata-kata semangat yang tulus dan keyakinan terhadap kemampuan kawan adalah sokongan terbaik.",
+    "catatan_budaya": "Peribahasa: 'Alang-alang mandi biar basah' — kalau mahu buat sesuatu, buat sepenuhnya. Memberi semangat yang setengah-setengah tidak bermakna.",
+    "kalimat_susun": "Masih ada peluang awak pasti boleh"
+  },
+  {
+    "bahasa": "Melayu",
+    "level": "Mahir",
+    "situasi": "Kamu nak tegur perilaku rakan sekerja yang sering lambat hantar laporan, tapi tak nak menyakiti hatinya.",
+    "opsi": [
+      "Awak selalu lambat, ini tak boleh jadi.",
+      "Eh, awak ok ke? Saya perasan awak ada cabaran dengan tarikh akhir. Apa yang boleh saya tolong?",
+      "Terpaksa lah bagitahu bos.",
+      "Awak kena improve diri."
+    ],
+    "benar": 1,
+    "penjelasan": "Mendekati dengan kerisauan dan menawarkan bantuan mengurangkan defensif dan membuka ruang perbincangan yang produktif.",
+    "catatan_budaya": "Dalam adat Melayu, 'tegur dengan budi' — menegur harus disertai keprihatinan yang tulus. Langsung menegur tanpa empati dianggap kasar.",
+    "kalimat_susun": "Apa yang boleh saya tolong awak"
+  },
+  {
+    "bahasa": "Melayu",
+    "level": "Pemula",
+    "situasi": "Kamu sedang dalam bas dan ada wanita tua yang baru naik. Tidak ada tempat duduk kosong.",
+    "opsi": [
+      "Buat tak tahu sahaja.",
+      "Mak Cik, silalah duduk di sini. Saya boleh berdiri.",
+      "Minta orang lain yang bagi tempat.",
+      "Tutup mata je, penat sangat hari ni."
+    ],
+    "benar": 1,
+    "penjelasan": "Menawarkan tempat duduk kepada orang tua menggunakan sapaan 'Mak Cik' dan menyatakan kesediaan berdiri adalah tindakan paling beradab.",
+    "catatan_budaya": "Menghormati orang tua dalam pengangkutan awam adalah adat Melayu yang kuat — ia bukan sekadar kesopanan, tapi tanda 'budi pekerti' yang baik.",
+    "kalimat_susun": "Mak Cik silalah duduk di sini",
+    "keyakinan": 0.93
+  },
+  {
+    "bahasa": "Melayu",
+    "level": "Pemula",
+    "situasi": "Kamu ingin meminjam pen kawan kamu semasa dalam kelas. Bagaimana cara yang betul?",
+    "opsi": [
+      "Bagi pen kamu!",
+      "Boleh pinjam pen kamu sekejap?",
+      "Pen kamu tu, letak kat sini.",
+      "Kenapa kamu tak mahu bagi?"
+    ],
+    "benar": 1,
+    "penjelasan": "Bertanya dengan nada sopan menggunakan 'boleh' menunjukkan kesopanan dalam meminjam barang.",
+    "catatan_budaya": "Dalam bahasa Melayu, penggunaan kata 'boleh' dalam pertanyaan memberi pilihan kepada pihak yang diminta, bukan memaksa — ini mencerminkan 'budi bahasa' yang halus.",
+    "kalimat_susun": "Boleh pinjam pen kamu sekejap",
+    "keyakinan": 0.92
+  },
+  {
+    "bahasa": "Melayu",
+    "level": "Mahir",
+    "situasi": "Rakan sekerja kamu membuat kesilapan dalam laporan yang akan dibentang kepada klien besok. Kamu tahu tetapi dia tidak sedar.",
+    "opsi": [
+      "Laporan kamu ada kesilapan, perbetulkan.",
+      "Saya ternampak beberapa perkara yang mungkin perlu kita semak sebelum bentang. Boleh kita lihat sekejap?",
+      "Biar je, bukan kerja saya.",
+      "Bagitahu bos terus."
+    ],
+    "benar": 1,
+    "penjelasan": "Menggunakan 'kita' dan menawarkan untuk menyemak bersama menjaga maruah rakan sambil menyelesaikan masalah sebelum terlambat.",
+    "catatan_budaya": "Peribahasa Melayu: 'Bersatu teguh, bercerai roboh' — bekerja sama untuk menyelesaikan masalah lebih baik daripada membiarkan orang lain menanggung malu sendiri.",
+    "kalimat_susun": "Boleh kita semak bersama sekejap",
+    "keyakinan": 0.88
+  },
+  {
+    "bahasa": "Melayu",
+    "level": "Mahir",
+    "situasi": "Kamu menerima kritikan pedas daripada rakan tentang kerja kamu. Walaupun kritikan itu ada benarnya, ia disampaikan dengan kasar.",
+    "opsi": [
+      "Kamu memang tak reti bagi semangat.",
+      "Terima kasih sebab prihatin. Saya akan pertimbangkan maklum balas tu. Tapi cara penyampaiannya boleh lebih baik.",
+      "Kerja kamu pun bukan sempurna.",
+      "Saya tak minta pendapat kamu."
+    ],
+    "benar": 1,
+    "penjelasan": "Menerima kritikan dengan baik sambil menyatakan harapan agar cara penyampaian diperbaiki menunjukkan kematangan emosi.",
+    "catatan_budaya": "Dalam budaya Melayu, menerima kritikan dengan 'hati terbuka' adalah tanda 'jiwa besar'. Namun meminta cara yang lebih baik juga sah — 'adat resam' mengajar saling menghormati.",
+    "kalimat_susun": "Terima kasih sebab prihatin saya pertimbangkan",
+    "keyakinan": 0.87
+  }
+]

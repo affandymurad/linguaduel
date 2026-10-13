@@ -1,0 +1,21 @@
+﻿# Dependensi
+node_modules/
+
+# Environment
+.env
+*.env.local
+
+# Build output
+dist/
+build/
+
+# Log files
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dokumen proposal (tidak dipublikasikan)
+Proposal LinguaDuel.pdf
