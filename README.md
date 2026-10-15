@@ -4,6 +4,8 @@ Game bahasa interaktif untuk belajar **nuansa** bahasa daerah. AI membuat situas
 
 > Dibuat dengan **IBM Bob** untuk proposal hackathon. Seluruh proses (prompt, hasil, koreksi, bukti) tercatat di [`BOB_LOG.md`](BOB_LOG.md).
 
+**Demo:** https://linguaduel.netlify.app/
+
 ## Masalah yang diselesaikan
 Banyak anak muda tahu arti kata dalam bahasa daerah, tetapi tidak tahu **kapan, kepada siapa, dan dalam suasana apa** kata itu pantas dipakai. Aplikasi belajar bahasa umumnya berhenti di kosakata. LinguaDuel melatih pemakaian kontekstual lewat situasi nyata dan umpan balik instan.
 
