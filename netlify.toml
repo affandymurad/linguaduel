@@ -1,0 +1,20 @@
+# Build dilakukan di GitHub Actions (.github/workflows/deploy.yml).
+# File ini hanya mengatur functions & redirect.
+
+[functions]
+  directory      = "netlify/functions"
+  node_bundler   = "esbuild"
+  # mock.js membaca file seed lewat fs, jadi harus disertakan manual
+  included_files = ["server/data/seed/**"]
+
+# Production: /api/* → Netlify Functions. Lokal (npm run dev) tetap lewat proxy Vite → Express.
+[[redirects]]
+  from   = "/api/*"
+  to     = "/.netlify/functions/:splat"
+  status = 200
+
+# SPA fallback untuk react-router
+[[redirects]]
+  from   = "/*"
+  to     = "/index.html"
+  status = 200

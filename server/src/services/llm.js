@@ -4,14 +4,15 @@
  * MOCK_MODE=true  → langsung ke mock.js, tanpa HTTP ke LLM
  * MOCK_MODE=false → kirim prompt ke OpenAI-compatible API
  *
- * Untuk mengganti provider (Gemini, Anthropic, dsb.), ubah hanya fungsi
+ * Provider default: Gemini via endpoint OpenAI-compatible.
+ * Untuk mengganti provider non-compatible (Anthropic, dsb.), ubah hanya fungsi
  * _callLLM() di bawah — interface getQuestion/evaluate tetap sama.
  *
  * Variabel .env yang relevan:
  *   LLM_API_KEY   — API key provider
- *   LLM_BASE_URL  — Base URL (default: https://api.openai.com/v1)
- *   LLM_MODEL     — Nama model (default: gpt-4o-mini)
- *   LLM_TIMEOUT   — Timeout ms (default: 10000)
+ *   LLM_BASE_URL  — Base URL (default: https://generativelanguage.googleapis.com/v1beta/openai)
+ *   LLM_MODEL     — Nama model (default: gemini-3.1-flash-lite)
+ *   LLM_TIMEOUT   — Timeout ms (default: 15000)
  */
 
 const mock                  = require('./mock');
@@ -86,9 +87,9 @@ function extractJSON(text) {
 // ---------------------------------------------------------------------------
 async function _callLLM(prompt) {
   const apiKey  = process.env.LLM_API_KEY;
-  const baseURL = (process.env.LLM_BASE_URL || 'https://api.openai.com/v1').replace(/\/$/, '');
-  const model   = process.env.LLM_MODEL || 'gpt-4o-mini';
-  const timeout = parseInt(process.env.LLM_TIMEOUT || '10000', 10);
+  const baseURL = (process.env.LLM_BASE_URL || 'https://generativelanguage.googleapis.com/v1beta/openai').replace(/\/$/, '');
+  const model   = process.env.LLM_MODEL || 'gemini-3.1-flash-lite';
+  const timeout = parseInt(process.env.LLM_TIMEOUT || '15000', 10);
 
   if (!apiKey) throw new Error('LLM_API_KEY tidak diset di .env');
 
@@ -109,7 +110,7 @@ async function _callLLM(prompt) {
         model,
         messages: [{ role: 'user', content: prompt }],
         temperature: 0.7,
-        response_format: { type: 'json_object' }, // tersedia di GPT-4o / GPT-4o-mini
+        response_format: { type: 'json_object' }, // didukung endpoint OpenAI-compat Gemini
       }),
     });
   } finally {

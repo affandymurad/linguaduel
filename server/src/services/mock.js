@@ -1,7 +1,11 @@
 const fs   = require('fs');
 const path = require('path');
 
-const SEED_DIR = path.join(__dirname, '../../data/seed');
+// Di Netlify Functions __dirname bisa berbeda karena bundling; coba beberapa lokasi.
+const SEED_DIR = [
+  path.join(__dirname, '../../data/seed'),
+  path.join(process.env.LAMBDA_TASK_ROOT || process.cwd(), 'server/data/seed'),
+].find(d => fs.existsSync(d)) || path.join(__dirname, '../../data/seed');
 
 /**
  * Baca semua soal dari file seed bahasa yang dipilih,

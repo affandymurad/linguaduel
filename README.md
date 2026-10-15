@@ -78,15 +78,17 @@ Ubah `server/.env`:
 
 ```env
 MOCK_MODE=false
-LLM_BASE_URL=<alamat API yang kompatibel dengan OpenAI>
-LLM_MODEL=<nama model>
-LLM_API_KEY=<kunci API Anda>
-LLM_TIMEOUT=<batas waktu dalam milidetik>
+LLM_BASE_URL=https://generativelanguage.googleapis.com/v1beta/openai
+LLM_MODEL=gemini-3.1-flash-lite
+LLM_API_KEY=<kunci API Gemini Anda>
+LLM_TIMEOUT=15000
 ```
+
+API key Gemini dapat dibuat di [Google AI Studio](https://aistudio.google.com/apikey).
 
 Opsional: `CORS_ORIGIN` (default `http://localhost:5173`) membatasi origin yang boleh memanggil server; isi saat deployment.
 
-Adapter di `server/src/services/llm.js` memakai format kompatibel OpenAI, sehingga penyedia lain dapat dipakai hanya dengan mengganti `LLM_BASE_URL` dan `LLM_MODEL`. Periksa nama variabel persis di `server/.env.example`.
+Adapter di `server/src/services/llm.js` memakai Gemini lewat endpoint kompatibel OpenAI, sehingga penyedia lain dengan format yang sama dapat dipakai hanya dengan mengganti `LLM_BASE_URL` dan `LLM_MODEL`. Periksa nama variabel persis di `server/.env.example`.
 
 ## Cara kerja AI
 1. Client meminta soal ke `POST /api/question` dengan `{bahasa, level, mode}`.
